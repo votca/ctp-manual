@@ -1,0 +1,8 @@
+language: cpp
+
+script:
+ - true 
+
+notifications:
+  email:
+    - votca-commits@googlegroups.com
